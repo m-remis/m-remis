@@ -91,3 +91,5 @@ Small GameMaker Studio 2 Pong-style game. Fast hands-on experiment with game dev
     <img src="assets/goose_idle.gif" alt="Visit michal-remis.com" width="180">
   </a>
 </p>
+
+Feel free to reach out! :-)
