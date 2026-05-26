@@ -1,12 +1,9 @@
 # Who am I
 
-**Senior Backend Software Engineer** · 7+ years
+[![Website](https://img.shields.io/badge/website-8A2BE2)](https://michal-remis.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
 
+**Senior Backend Software Engineer** ·
 I build backend systems end-to-end — API design, service architecture, database behavior, identity flows, deployment, and the operational failure modes that don't get documented. Moving toward **architecture and technical leadership**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-m--remis-181717?logo=github&logoColor=white)](https://github.com/m-remis)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
 
 ---
 
