@@ -45,8 +45,7 @@ under real production conditions — that's the goal.
 
 A selection of personal projects focused on backend engineering, system design, automation, and practical tooling.
 
-#### [Used Car Notify Bot](https://github.com/m-remis/used-car-notify-bot) (*Fun fact: I actually used this to buy a
-car.*)
+#### [Used Car Notify Bot](https://github.com/m-remis/used-car-notify-bot) (*Fun fact: I actually used this to buy a car.*)
 
 Spring Boot / Java Telegram bot that scrapes used-car listings, detects new offers, applies configurable filters, and
 sends Telegram notifications with photos and prices.
