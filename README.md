@@ -1,6 +1,6 @@
 # Who am I
 
-[![Website](https://img.shields.io/badge/website-8A2BE2)](https://michal-remis.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
+[![Website](https://img.shields.io/badge/website-8A2BE2)](https://michal-remis.com/?utm_campaign=github_profile_badge&utm_source=github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
 
 **Senior Backend Software Engineer** ·
 I build backend systems end-to-end — API design, service architecture, database behavior, identity flows, deployment,
@@ -86,7 +86,7 @@ Small GameMaker Studio 2 Pong-style game. Fast hands-on experiment with game dev
 </details>
 
 <p align="center">
-  <a href="https://michal-remis.com">
+  <a href="https://michal-remis.com/?utm_campaign=github_profile_goose&utm_source=github">
     <img src="assets/goose_idle.gif" alt="Visit michal-remis.com" width="180">
   </a>
 </p>
