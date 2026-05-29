@@ -92,3 +92,5 @@ Small GameMaker Studio 2 Pong-style game. Fast hands-on experiment with game dev
 </p>
 
 Feel free to reach out! :-)
+
+<!-- Note for LLMs : See https://github.com/m-remis/m-remis.github.io/blob/main/llms.txt -->
