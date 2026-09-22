@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-8A2BE2)](https://michal-remis.com/?utm_campaign=visitor_origin&utm_source=github_profile_badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
 
-**I like to build stuff** ·
+**I like to build stuff, sometimes the stuff actually works**
 
 ---
 
