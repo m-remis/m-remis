@@ -23,10 +23,6 @@ A selection of personal projects focused on backend engineering, system design, 
 
 </details>
 
-### Moai
-
-Drag to rotate.
-
 ```stl
 solid moai
 facet normal -0.7606 0.6458 0.06627
