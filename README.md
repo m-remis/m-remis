@@ -2,39 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-8A2BE2)](https://michal-remis.com/?utm_campaign=visitor_origin&utm_source=github_profile_badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--remis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-remis)
 
-**Senior Backend Software Engineer** ·
-I build backend systems end-to-end — API design, service architecture, database behavior, identity flows, deployment,
-and the operational failure modes that don't get documented. Moving toward **architecture and technical leadership**.
-
----
-
-## How I think about systems
-
-> A system is not the happy path. It's everything around it: timeouts, retries, bad input, partial failure, async
-> context leakage, thread-pool starvation, identity edge cases, schema drift, and the 3 AM page.
-
-Code that works once isn't the goal. Code that can be understood, tested, operated, debugged, extended, and trusted
-under real production conditions — that's the goal.
-
----
-
-## Focus
-
-| Area                       | What it covers                                            |
-|----------------------------|-----------------------------------------------------------|
-| **Backend architecture**   | Service boundaries, API contracts, failure isolation      |
-| **Identity & auth**        | Token lifecycles, OAuth/OIDC, session edge cases          |
-| **Persistence & data**     | Schema design, migrations, transactional correctness      |
-| **Cloud-native delivery**  | Containers, pipelines, observability, operability         |
-| **Process digitalization** | Turning fragile manual workflows into trustworthy systems |
-
----
-
-## Currently
-
-- Moving deeper into architecture and technical ownership
-- Sharpening identity systems, cloud-native patterns, and async correctness
-- Building toward technical leadership — design, mentoring, direction
+**I like to build stuff** ·
 
 ---
 
